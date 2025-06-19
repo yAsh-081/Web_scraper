@@ -40,7 +40,7 @@ Before running this project, ensure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/web-scraping-r-books.git
+   git clone https://github.com/yAsh-081/Web_scraper.git
    cd web-scraping-r-books
    ```
 
